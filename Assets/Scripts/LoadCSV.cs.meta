@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 5eac5bb6a2555429f865c93839283fd3
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - markerPrefab: {fileID: 2272931653210815544, guid: 3357ff187b6ba4d89bc40acea2442276,
+      type: 3}
+  - arcGISMap: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
